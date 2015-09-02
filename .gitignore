@@ -1,0 +1,10 @@
+.classpath
+.DS_Store
+logs
+.project
+*.log
+log.txt
+*.bak
+.settings
+target
+bin
