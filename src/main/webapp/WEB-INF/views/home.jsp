@@ -7,7 +7,7 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <meta name="description" content="home">
 <meta name="author" content="cbn">
-<link rel="icon" href="favicon.ico">
+<link rel="icon" href="images/favicon.ico">
 <title>Starter Template for Bootstrap</title>
 
 <!-- Bootstrap core CSS -->
@@ -16,8 +16,7 @@
 
 </head>
 
-<body>
-
+<body bgcolor="#7B68EE" >
 	<nav class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container">
 			<div class="navbar-header">
@@ -28,7 +27,7 @@
 						class="icon-bar"></span> <span class="icon-bar"></span> <span
 						class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#">Project name</a>
+				<a class="navbar-brand" href="#">MyWeb</a>
 			</div>
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
@@ -53,5 +52,7 @@
 
 	</div>
 	<!-- /.container -->
+	
+	
 </body>
 </html>
